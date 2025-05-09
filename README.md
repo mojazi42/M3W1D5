@@ -1,4 +1,4 @@
-## 🎯 Task Requirements
+## Task Requirements
 
 - Screen 1: A button that navigates to the profile screen
 - Screen 2: A profile card showing:
